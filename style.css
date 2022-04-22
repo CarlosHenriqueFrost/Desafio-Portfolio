@@ -38,8 +38,8 @@ aside {
 }
 
 img {
-  width: 10rem;
-  height: 10rem;
+  width: 8rem;
+  height: 8rem;
   border-radius: 50%;
 }
 
@@ -51,6 +51,10 @@ img {
   height: 16.25rems;
   margin: 2.5rem;
   border-radius: 5%;
+}
+
+#PrincipalInformations h2 {
+  font-size: 23px;
 }
 
 #PrincipalInformations img {
